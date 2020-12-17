@@ -1,5 +1,4 @@
-# DSA_Self_Placed
-# Dsa(Datastructure And Algorithum) Self Placed Course from GeeksForGeeks
+# DSA_Self_Placed (DSA Self Placed Course from GeeksForGeeks)
  
 <h3>Define Data Structures</h3>
 <p>A data structure is a particular way of organizing data in a computer so that it can be used effectively<br>
